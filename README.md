@@ -1,16 +1,34 @@
-## Hi there 👋
+# Youssef EL AIDOUDI
 
-<!--
-**youssef-el-aidoudi/youssef-el-aidoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master 1 Bases de Données et Intelligence Artificielle  
+Université de Bourgogne Europe – Dijon, France
 
-Here are some ideas to get you started:
+I am currently looking for:
+- a summer internship from May to September
+- a 12-month apprenticeship starting in September 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Target roles
+- Data Analyst
+- AI / Data projects
+- Software Development
+
+## Availability
+- Summer internship: May to September
+- Apprenticeship rhythm: 2 days at school / 3 days in company
+
+## Main skills
+- SQL / PostgreSQL
+- Python
+- Java / Spring Boot
+- React / JavaScript
+- PHP / HTML / CSS
+- Git / Linux / Docker
+
+## Featured projects
+- Bottle Quality Detection with AI
+- English E-learning Web Platform
+- Online Backup System
+- The Mind Online Multiplayer Card Game
+
+## Contact
+- LinkedIn: linkedin.com/in/youssef-el-aidoudi
