@@ -17,12 +17,12 @@ I am currently looking for:
 - Apprenticeship rhythm: 2 days at school / 3 days in company
 
 ## Main skills
-- SQL / PostgreSQL
-- Python
-- Java / Spring Boot
-- React / JavaScript
-- PHP / HTML / CSS
-- Git / Linux / Docker
+## Main skills
+- Data & Databases: SQL, PostgreSQL, ETL, Data Warehouse, relational modeling
+- Data Analysis & AI: Python, R, Pandas, Matplotlib
+- Backend & APIs: Java, Spring Boot, REST APIs, backend validation and testing
+- Frontend & Web: React, JavaScript, PHP, HTML/CSS
+- Tools & Environments: Git, GitLab, Docker, Linux/Bash, Office 365
 
 ## Featured projects
 - Bottle Quality Detection with AI
